@@ -7,7 +7,6 @@ import Navbar from "./components/Navbar";
 import "./main.css";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import { CartProvider } from "./context/CartContext";
-import Carrito from "./components/carrito"; // Componente de carrito
 import Checkout from "./components/checkout";
 import CartPage from './data/CartPage'; // Nueva página para el carrito
 import CargarProductos from './CargarProductos'; // Importar la función para cargar productos
