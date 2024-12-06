@@ -1,0 +1,99 @@
+[
+    {
+      "nombre": "Zapatilla Nike Air Max",
+      "categoria": "Nike",
+      "descripcion": "Zapatilla deportiva de alto rendimiento",
+      "imagen": "https://nikearprod.vtexassets.com/arquivos/ids/878729/FD9082_107_A_PREM.jpg?v=638467294655030000",
+      "precio": 120000,
+      "stock": 10
+    },
+    {
+      "nombre": "Zapatilla Nike Zoom Fly",
+      "categoria": "Nike",
+      "descripcion": "Zapatilla para correr, ligera y cómoda",
+      "imagen": "https://link-a-imagen.com/nike-zoom-fly.jpg",
+      "precio": 110000,
+      "stock": 15
+    },
+    {
+      "nombre": "Zapatilla Adidas Ultraboost",
+      "categoria": "Adidas",
+      "descripcion": "Zapatilla cómoda para running",
+      "imagen": "https://link-a-imagen.com/adidas-ultraboost.jpg",
+      "precio": 140000,
+      "stock": 15
+    },
+    {
+      "nombre": "Zapatilla Adidas Supernova",
+      "categoria": "Adidas",
+      "descripcion": "Zapatilla de alta calidad para correr",
+      "imagen": "https://link-a-imagen.com/adidas-supernova.jpg",
+      "precio": 135000,
+      "stock": 10
+    },
+    {
+      "nombre": "Zapatilla Topper Running",
+      "categoria": "Topper",
+      "descripcion": "Zapatilla de running para entrenamiento",
+      "imagen": "https://link-a-imagen.com/topper-running.jpg",
+      "precio": 80000,
+      "stock": 20
+    },
+    {
+      "nombre": "Zapatilla DC Court Graffik",
+      "categoria": "DC",
+      "descripcion": "Zapatilla estilo skater, cómoda y duradera",
+      "imagen": "https://link-a-imagen.com/dc-court-graffik.jpg",
+      "precio": 95000,
+      "stock": 12
+    },
+    {
+      "nombre": "Zapatilla Puma Ignite",
+      "categoria": "Puma",
+      "descripcion": "Zapatilla deportiva con buena amortiguación",
+      "imagen": "https://link-a-imagen.com/puma-ignite.jpg",
+      "precio": 105000,
+      "stock": 14
+    },
+    {
+      "nombre": "Zapatilla Puma Clyde",
+      "categoria": "Puma",
+      "descripcion": "Zapatilla de estilo clásico y urbano",
+      "imagen": "https://link-a-imagen.com/puma-clyde.jpg",
+      "precio": 90000,
+      "stock": 18
+    },
+    {
+      "nombre": "Zapatilla Jordan 1 Retro",
+      "categoria": "Jordan",
+      "descripcion": "Zapatilla deportiva estilo clásico",
+      "imagen": "https://link-a-imagen.com/jordan-1-retro.jpg",
+      "precio": 160000,
+      "stock": 8
+    },
+    {
+      "nombre": "Zapatilla Jordan 4",
+      "categoria": "Jordan",
+      "descripcion": "Zapatilla deportiva para todos los días",
+      "imagen": "https://link-a-imagen.com/jordan-4.jpg",
+      "precio": 170000,
+      "stock": 5
+    },
+    {
+      "nombre": "Zapatilla Vans Old Skool",
+      "categoria": "Vans",
+      "descripcion": "Zapatilla de estilo clásico, ideal para uso diario",
+      "imagen": "https://link-a-imagen.com/vans-old-skool.jpg",
+      "precio": 75000,
+      "stock": 25
+    },
+    {
+      "nombre": "Zapatilla Vans Slip-On",
+      "categoria": "Vans",
+      "descripcion": "Zapatilla sin cordones de estilo cómodo y casual",
+      "imagen": "https://link-a-imagen.com/vans-slip-on.jpg",
+      "precio": 65000,
+      "stock": 30
+    }
+  ]
+  
